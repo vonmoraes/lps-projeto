@@ -3,3 +3,4 @@ Repositório criado para o trabalho da disciplina de Laboratório de Projeto de 
 
 Colaboradores: 
 Lucas de Souza Moraes
+Álefe Lucas
