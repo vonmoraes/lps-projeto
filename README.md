@@ -5,3 +5,4 @@ Colaboradores:
 * Lucas de Souza Moraes
 * Álefe Lucas
 * Henrique Schiess Pertussati
+* Luana Duarte Santana Farias
