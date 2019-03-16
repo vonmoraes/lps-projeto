@@ -28,7 +28,7 @@
   * Protótipo de interface.
   * Diagrama de classes de análise.
 
-## 3º Artefato: Documento de Arquitetura. [ 00/00/2019 ]
+## 3º Artefato: Documento de Arquitetura. [ 09/04/2019 ]
   Entrega do documento de arquitetura. 
   Necessário:
   * Diagramas de interação.
@@ -36,13 +36,13 @@
   * Diagrama entidade relacionamento (D.E.R).
   * Diagrama de classes de projeto.
   
-## 4º Artefato: Documento de Plano de Testes. [ 00/00/2019 ]
+## 4º Artefato: Documento de Plano de Testes. [ 21/05/2019 ]
   Entrega do documento de plano de testes. 
   Necessário: 
   * Casos de testes funcionais.
   * Casis de testes não funcionais. 
 
-## 5º Entrega: Análise de Usabilidade. [ 00/00/2019 ]
+## 5º Entrega: Análise de Usabilidade. [ 04/06/2019 ]
   Entrega feita sobre a análise de usabilidade da aplicação.
   Necessário: 
   * Formulário do Google.
