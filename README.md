@@ -10,7 +10,6 @@
 
 #### Cronograma:
 
-| Cronograma resumido                                |
 | Entrega | Documento                   | Data       |
 |:-------:|:---------------------------:|:----------:|
 | &#9745; | Template dos Documentos     | 26/02/2019 |
@@ -23,7 +22,7 @@
 
 #### Sprints
 
-| Sprints                   |
+| Sprints                  ||
 | Sprints   | Período       |
 |:---------:|:--------------|
 | 1º Sprint | 09/04 - 23/04 |
