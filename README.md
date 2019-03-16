@@ -6,7 +6,7 @@
 * Breno Aroeira Cosenza
 * Henrique Schiess Pertussati
 * Luana Duarte Santana Farias
-* Lucas de Souza Moraes
+* [Lucas de Souza Moraes](@vonmoraes)
 
 #### Cronograma:
 
