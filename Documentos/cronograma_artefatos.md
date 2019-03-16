@@ -1,13 +1,13 @@
 # Cronograma de entrega dos documentos do programa
 
-| Nº Entrega | Data de Entrega | Valor | Nota | 
-|:----------:|:---------------:|:-----:|:----:|
-| 1º         |  26/02/2019     | 10.00 | -    |
-| 2º         |  18/03/2019     | 20.00 | -    |
-| 3º         |  09/04/2019     | 20.00 | -    |
-| 4º         |  21/05/2019     | 12.00 | -    |
-| 5º         |  04/06/2019     |  8.00 | -    |
-| 6º         |  11/06/2019     | 25.00 | -    |
+| Nº Entrega | Documento                   | Data de Entrega | Valor | Nota | 
+|:----------:|:---------------------------:|:---------------:|:-----:|:----:|
+| 1º         | Template dos Documentos     |  26/02/2019     | 10.00 | -    |
+| 2º         | Especificação de Requisitos |  18/03/2019     | 20.00 | -    |
+| 3º         | Documento de Arquitetura    |  09/04/2019     | 20.00 | -    |
+| 4º         | Plano de Testes             |  21/05/2019     | 12.00 | -    |
+| 5º         | Análise de Usabilidade      |  04/06/2019     |  8.00 | -    |
+| 6º         | Código Fonte                |  11/06/2019     | 25.00 | -    |
 
 ## 1º Entrega: Def. Ferramenta de Gerênciamento de Scrum & Template dos Documentos. [ 26/02/2019 ]
   Entrega do template dos documentos de artefato.
