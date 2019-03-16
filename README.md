@@ -12,11 +12,13 @@
 
 | Entrega      | Documento                   | Data       |
 | -------------|:---------------------------:|:----------:|
-|<ul><li>[x]</li></ul>| Template dos Documentos     | 26/02/2019 |
+|<ul><li>[ ]</li></ul>| Template dos Documentos     | 26/02/2019 |
 |** 2 **       | Especificação de Requisitos | 18/03/2019 |
 |** 3 **       | Documento de Arquitetura    | 09/04/2019 |
 |** 4 **       | Plano de Testes             | 21/05/2019 |
 |** 5 **       | Análise de Usabilidade      | 04/06/2019 |
 |** 6 **       | Código Fonte                | 11/06/2019 |
 
-<ul>- [x] item1</ul>
+| Unchecked | Checked |
+| --------- | ------- |
+| &#9744;   | &#9745; |
