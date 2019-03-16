@@ -2,11 +2,11 @@
 ## Repositório criado para o trabalho da disciplina de Laboratório de Projeto de Sistemas. ## 
 
 ### Colaboradores: 
-* Álefe Lucas
-* Breno Aroeira Cosenza
-* Henrique Schiess Pertussati
-* Luana Duarte Santana Farias
-* [Lucas de Souza Moraes](@vonmoraes)
+* [Álefe Lucas](https://github.com/AlefeLucas)
+* [Breno Aroeira Cosenza](https://github.com/BrenoACos)
+* [Henrique Schiess Pertussati](https://github.com/ICESchiess)
+* [Luana Duarte Santana Farias](https://github.com/luludsf)
+* [Lucas de Souza Moraes](https://github.com/vonmoraes)
 
 #### Cronograma:
 
