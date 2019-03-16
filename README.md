@@ -18,3 +18,8 @@
 |** 4 **       | Plano de Testes             | 21/05/2019 |
 |** 5 **       | Análise de Usabilidade      | 04/06/2019 |
 |** 6 **       | Código Fonte                | 11/06/2019 |
+
+[]
+[x]
+- [x]
+- []
