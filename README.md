@@ -18,4 +18,6 @@
 | &#9744; | Plano de Testes             | 21/05/2019 |
 | &#9744; | Análise de Usabilidade      | 04/06/2019 |
 | &#9744; | Código Fonte                | 11/06/2019 |
+|:-------:|:---------------------------:|:----------:|
+Fonte: [Cronograma Completo](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/cronograma_artefatos.md)
 
