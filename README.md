@@ -19,7 +19,4 @@
 |** 5 **       | Análise de Usabilidade      | 04/06/2019 |
 |** 6 **       | Código Fonte                | 11/06/2019 |
 
-[]
-[x]
-- [x]
-- []
+<ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
