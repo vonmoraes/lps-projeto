@@ -8,7 +8,8 @@
 * Luana Duarte Santana Farias
 * Lucas de Souza Moraes
 
-#### Cronograma: 
+#### Cronograma:
+
 | Cronograma resumido                                |
 | Entrega | Documento                   | Data       |
 |:-------:|:---------------------------:|:----------:|
@@ -21,6 +22,7 @@
 [[Cronograma Completo](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/cronograma_artefatos.md)]
 
 #### Sprints
+
 | Sprints                   |
 | Sprints   | Período       |
 |:---------:|:--------------|
