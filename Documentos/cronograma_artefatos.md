@@ -1,4 +1,4 @@
-# Cronograma de entrega dos artefatos
+# Cronograma de entrega dos documentos do programa
 
 | Nº Entrega | Data de Entrega | Valor | Nota | 
 |:----------:|:---------------:|:-----:|:----:|
