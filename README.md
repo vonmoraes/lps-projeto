@@ -12,9 +12,9 @@
 
 | Entrega      | Documento                   | Data       |
 | -------------|:---------------------------:|:----------:|
-| - [x]        | Template dos Documentos     | 26/02/2019 |
-| - [ ]        | Especificação de Requisitos | 18/03/2019 |
-| - [ ]        | Documento de Arquitetura    | 09/04/2019 |
-| - [ ]        | Plano de Testes             | 21/05/2019 |
-| - [ ]        | Análise de Usabilidade      | 04/06/2019 |
-| - [ ]        | Código Fonte                | 11/06/2019 |
+|** 1 **       | Template dos Documentos     | 26/02/2019 |
+|** 2 **       | Especificação de Requisitos | 18/03/2019 |
+|** 3 **       | Documento de Arquitetura    | 09/04/2019 |
+|** 4 **       | Plano de Testes             | 21/05/2019 |
+|** 5 **       | Análise de Usabilidade      | 04/06/2019 |
+|** 6 **       | Código Fonte                | 11/06/2019 |
