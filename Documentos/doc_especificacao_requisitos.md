@@ -20,7 +20,7 @@
 ## 3. Casos de Uso
 ### 3.1. Diagrama
 [diarama_caso_de_uso]: https://user-images.githubusercontent.com/31371849/54492545-576c5800-48a6-11e9-9ac7-a17e54f65c1b.png
-![alt text][diagrama_caso_de_uso]
+![alt text](https://user-images.githubusercontent.com/31371849/54492545-576c5800-48a6-11e9-9ac7-a17e54f65c1b.png)
 
 **imagem**: *Diagrama de Casos de Uso*
 
