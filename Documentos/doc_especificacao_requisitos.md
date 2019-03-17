@@ -2,6 +2,17 @@
 
 ## 1. Introdução
 
+Este documento tem como objetivo a definição de requisitos para o projeto de **Gerenciador de alocação de TCC’s** para os alunos e orientadores acadêmicos. Além de permitir a submissão dos pontos de controle durante o semestre, o sistema deve permitir armazenamento da nota dos alunos atribuídas pelo o orientador e coordenador. 
+
+O documento incluí o *levantamento de requisitos* realizado pela equipe, o *diagrama de casos de uso* realizado em base dos requisitos bem como suas *descrições*, o *protótipo* da plataforma bem como seu *diagrama de classe de análise*. Na ordem respectivamente. 
+
+As siglas e abreviações utilizadas neste documento referem-se : 
+* TCC - Trabalho de Conclusão de Curso
+* JSP - Java Server Pages
+* JSF - Java Server Faces
+
+Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/Referencias/1505831_Ponto%20de%20Controle%20CC%20201901.pdf) e [Regulamento para o trabalho de conclusão de curso](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/Referencias/1507899_Regulamento%20CC%20TCCI%202019%2001.pdf) adquiridos com a autorização de professores. 
+
 ## 2. Requisitos
   ### 2.1. Requisitos Funcionais
   * O sistema deve manter o cadastro de Aluno, Orientador, Coordenador e Administrador.
@@ -17,6 +28,7 @@
   * O sistema usará JSP.
   * O sistema usará JSF.
   * O sistema usará MySQL.
+  
 ## 3. Casos de Uso
 ### 3.1. Diagrama
 [diarama_caso_de_uso]: https://user-images.githubusercontent.com/31371849/54492545-576c5800-48a6-11e9-9ac7-a17e54f65c1b.png
