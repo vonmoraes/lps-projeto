@@ -31,4 +31,4 @@ Tabela: Resumo do [Cronograma Completo](https://github.com/vonmoraes/lps-projeto
 | 3º Sprint | 07/05 - 21/05 |
 | 4º Sprint | 21/05 - 03/06 |
 
-Tabela: Data Perído dos Sprints
+Tabela: Data perído dos Sprints
