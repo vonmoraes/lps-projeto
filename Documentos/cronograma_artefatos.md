@@ -25,13 +25,14 @@
 
 ## 2º Artefato: Documento de Especificação de Requisitos. [ 18/03/2019 ]
   Entrega do documento de especificação de requisitos.
+  <p>
   Necessário:
   * Lista de requisitos.
   * Diagrama de casos de uso. 
   * Descrição real dos casos de uso.
   * Protótipo de interface.
   * Diagrama de classes de análise.
-
+  </p>
 ## 3º Artefato: Documento de Arquitetura. [ 09/04/2019 ]
   Entrega do documento de arquitetura. 
   Necessário:
