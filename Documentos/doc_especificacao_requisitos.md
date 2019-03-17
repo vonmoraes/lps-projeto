@@ -4,7 +4,7 @@
 
 ## 2. Requisitos
 
-### 2.1. Requisitos Funcionais
+&nbsp;&nbsp;&nbsp;&nbsp; ### 2.1. Requisitos Funcionais
 * O sistema deve manter o cadastro de Aluno, Orientador, Coordenador e Administrador.
 * O sistema deve permitir o login por meio de número de matrícula e senha.
 * O sistema deve permitir o login de Alunos, Orientadores, Coordenadores e Administradores.
@@ -13,7 +13,7 @@
 * O sistema deve permitir a submissão de pontos de controle pelo Aluno, os pontos de controle são uma descrição textual sobre o que foi feito de trabalho até este ponto de controle e do que será feito até o próximo ponto de controle.
 * O sistema deve permitir um parecer feito do Orientador para o Coordenador sobre a submissão de novos pontos de controle.
 * O sistema deve permitir a alteração de nota dos pontos de controle pelo Orientador e pelo Coordenador. 
-### 2.2. Requisistos Não Funcionais
+&nbsp;&nbsp;&nbsp;&nbsp; ### 2.2. Requisistos Não Funcionais
 * O sistema será em plataforma web.
 * O sistema usará JSP.
 * O sistema usará JSF.
