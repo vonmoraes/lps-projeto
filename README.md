@@ -34,5 +34,4 @@ Tabela: Resumo do [Cronograma Completo](https://github.com/vonmoraes/lps-projeto
 Tabela: Data perído dos Sprints
 
 ---
-
 Acompanhe o [andamento do projeto](https://github.com/vonmoraes/lps-projeto/projects/1).
