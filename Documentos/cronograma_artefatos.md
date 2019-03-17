@@ -25,16 +25,16 @@
 
 ## 2º Artefato: Documento de Especificação de Requisitos. [ 18/03/2019 ]
   Entrega do documento de especificação de requisitos.
-  <p>
+  
   Necessário:
   * Lista de requisitos.
   * Diagrama de casos de uso. 
   * Descrição real dos casos de uso.
   * Protótipo de interface.
   * Diagrama de classes de análise.
-  </p>
 ## 3º Artefato: Documento de Arquitetura. [ 09/04/2019 ]
-  Entrega do documento de arquitetura. 
+  Entrega do documento de arquitetura.
+  
   Necessário:
   * Diagramas de interação.
   * Diagramas de componentes/deployment.
@@ -43,17 +43,20 @@
   
 ## 4º Artefato: Documento de Plano de Testes. [ 21/05/2019 ]
   Entrega do documento de plano de testes. 
+  
   Necessário: 
   * Casos de testes funcionais.
   * Casis de testes não funcionais. 
 
 ## 5º Entrega: Análise de Usabilidade. [ 04/06/2019 ]
   Entrega feita sobre a análise de usabilidade da aplicação.
+  
   Necessário: 
   * Formulário do Google.
   
 ## 6º Entrega: Aplicação. [ 11/06/2019 ]
- Entrega total da aplicação
+ Entrega total da aplicação.
+ 
  Necessário: 
  * Apresentação com o professor.
  * Entrega dos documentos com o link do github da aplicação. 
