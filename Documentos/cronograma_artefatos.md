@@ -17,11 +17,11 @@
     * Doc. de Especificação de Requisitos.
     * Doc. de Arquitetura.
     * Doc. de Plano de Testes.
-  * Consultar : [Blog do Pasteur](http://pasteurjr.blogspot.com/)
-                [RUP](http://www.tesestec.com.br/pasteurjr/rup/process/ovu_proc.htm)
-                [Artifact:  Requirements Management Plan](http://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_ratgl.htm)
-                [Artifact:  Software Architecture Document](http://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_sadoc.htm)
-                [Artifact:  Test Plan](http://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_tstpl.htm)
+  * Consultar : [Blog do Pasteur](http://pasteurjr.blogspot.com/), 
+                [RUP](http://www.tesestec.com.br/pasteurjr/rup/process/ovu_proc.htm), 
+                [Artifact:  Requirements Management Plan](http://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_ratgl.htm), 
+                [Artifact:  Software Architecture Document](http://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_sadoc.htm), 
+                [Artifact:  Test Plan](http://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_tstpl.htm).
 
 ## 2º Artefato: Documento de Especificação de Requisitos. [ 18/03/2019 ]
   Entrega do documento de especificação de requisitos.
