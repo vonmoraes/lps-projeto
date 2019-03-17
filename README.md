@@ -2,6 +2,7 @@
 ## Repositório criado para o trabalho da disciplina de Laboratório de Projeto de Sistemas. ## 
 
 ### Colaboradores: 
+
 * [Álefe Lucas](https://github.com/AlefeLucas)
 * [Breno Aroeira Cosenza](https://github.com/BrenoACos)
 * [Henrique Schiess Pertussati](https://github.com/ICESchiess)
@@ -23,7 +24,6 @@ Tabela: Resumo do [Cronograma Completo](https://github.com/vonmoraes/lps-projeto
 
 #### Sprints
 
-
 | Sprints   | Período       |
 |:---------:|:--------------|
 | 1º Sprint | 09/04 - 23/04 |
@@ -32,3 +32,7 @@ Tabela: Resumo do [Cronograma Completo](https://github.com/vonmoraes/lps-projeto
 | 4º Sprint | 21/05 - 03/06 |
 
 Tabela: Data perído dos Sprints
+
+### Andamento do projeto
+
+Acompanhe o [andamento do projeto](https://github.com/vonmoraes/lps-projeto/projects/1).
