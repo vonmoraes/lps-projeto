@@ -64,10 +64,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | | 4 - Ponto de controle é recebido pelo sistema e liberado para o orientador e coordenador. |
 
 #### Caso de Uso: _Efetuar login._
-**Atores**: Usuário.
-**Visão geral**: Usuário cadastrado efetua login de acesso ao sistema.
-**Pré-requisitos**: Usuário estar cadastrado. 
-**Pós-requisitos**:  Usuário logado no sistema
+**Atores**: Usuário. </br>
+**Visão geral**: Usuário cadastrado efetua login de acesso ao sistema. </br>
+**Pré-requisitos**: Usuário estar cadastrado.  </br>
+**Pós-requisitos**:  Usuário logado no sistema </br>
 
 **Fluxo de eventos**:
 
