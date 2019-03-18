@@ -41,7 +41,7 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
   
 ## 3. Casos de Uso
  ### 3.1. Diagrama
- ![alt text](https://drive.google.com/open?id=1M4eCieQlfqpjXT1MtpwcHDh0d303YuNP)
+ ![diagrama_de_caso_uso](https://user-images.githubusercontent.com/31371849/54547085-d2577080-4983-11e9-91dd-8866e029591c.png)
 
  **imagem**: *Diagrama de Casos de Uso*.
 
@@ -50,6 +50,6 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 ## 4. Prototipagem
 
 ## 5. Diagramas de Classe de Análise
- ![alt text](https://drive.google.com/open?id=1UNhk2qChXrPykuuKf2oSZFaF2sEQyJ4o)
+![diagrama_classe_analise](https://user-images.githubusercontent.com/31371849/54547184-0337a580-4984-11e9-9948-aaa9aba6fb78.png)
 
 **imagem**: *Diagrama de Classe de Análise*.
