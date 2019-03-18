@@ -46,8 +46,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
  **imagem**: *Diagrama de Casos de Uso*.
 
  ### 3.2. Descrição de Caso de Uso
+ 
 #### Caso de Uso: _Submeter ponto de controle_.
-**Atores**: Aluno
+
+**Atores**: Aluno.
 **Visão geral**: O aluno preenche o ponto de controle e o submete para avaliação.
 **Pré-requisitos**: Aluno cadastrado.
 **Pós-requisitos**: Ponto de controle submetido para o parecer do orientador. 
