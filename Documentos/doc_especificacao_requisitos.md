@@ -1,5 +1,5 @@
 # Documento de Especificação de Requisitos. 
-
+Autores: Álefe Lucas, Breno Aroeira Cosenza, Henrique Schiess Pertussati, Luana Duarte Santana Farias e Lucas de Souza Moraes.
 ## 1. Introdução
 
 Este documento tem como objetivo a definição de requisitos para o projeto de **Gerenciador de alocação de TCC’s** para os alunos e orientadores acadêmicos. Além de permitir a submissão dos pontos de controle durante o semestre, o sistema deve permitir armazenamento da nota dos alunos atribuídas pelo o orientador e coordenador. 
