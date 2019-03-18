@@ -316,4 +316,5 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 
 **imagem**: *Diagrama de Classe de Análise
 
+---
 [PDF](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/PDF/Documento%20de%20Especifica%C3%A7%C3%A3o%20de%20Requisitos.pdf), criado com [dillinger.io](https://dillinger.io/)
