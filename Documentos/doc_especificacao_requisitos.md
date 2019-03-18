@@ -49,12 +49,12 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
  
 #### Caso de Uso: _Submeter ponto de controle_.
 
-**Atores**: Aluno.
-**Visão geral**: O aluno preenche o ponto de controle e o submete para avaliação.
-**Pré-requisitos**: Aluno cadastrado.
-**Pós-requisitos**: Ponto de controle submetido para o parecer do orientador. 
+**Atores**: Aluno.  
+**Visão geral**: O aluno preenche o ponto de controle e o submete para avaliação.  
+**Pré-requisitos**: Aluno cadastrado.  
+**Pós-requisitos**: Ponto de controle submetido para o parecer do orientador.  
 
-**Fluxo de eventos**:
+**Fluxo de eventos**:  
 
 | Ações do Ator | Respostas do Sistema |
 |:-------------------:|:------------------------------:|
