@@ -287,6 +287,29 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | | 5 - Sistema atualiza solicitação como negada. | 
 
 ## 4. Prototipagem
+**Imagem**: Tela de login.
+![1 1-Screen 1](https://user-images.githubusercontent.com/31371849/54569530-fc2b8a00-49b9-11e9-83fa-2b88ff9c3556.png)
+**Imagem**: Tela inicial de aluno.
+![2 1-Screen 2](https://user-images.githubusercontent.com/31371849/54569542-05b4f200-49ba-11e9-9798-d63c5446e3ed.png)
+**Imagem**: Tela de submeter ponto de controle (aluno).
+![3 1-Screen 3](https://user-images.githubusercontent.com/31371849/54569556-0f3e5a00-49ba-11e9-809b-89a90a7d1255.png)
+**Imagem**: Tela de avaliar ponto de controle (orientador).
+![4 1-Screen 4](https://user-images.githubusercontent.com/31371849/54569567-15ccd180-49ba-11e9-8427-77ecf22057d1.png)
+**Imagem**: Tela de atribuir nota de coordenador.
+![5 1-Screen 5](https://user-images.githubusercontent.com/31371849/54569575-1f563980-49ba-11e9-8ba1-e9d302ea80b4.png)
+**Imagem**: Tela inicial de orientador.
+![6 1-Screen  7](https://user-images.githubusercontent.com/31371849/54569590-3137dc80-49ba-11e9-8c6e-e69e23bd7d09.png)
+**Imagem**: Tela inicial de coordenador.
+![7 1-Screen  8](https://user-images.githubusercontent.com/31371849/54569596-385eea80-49ba-11e9-9430-37331f4682bb.png)
+**Imagem**: Tela inicial de administrador.
+![8 1-Screen  9](https://user-images.githubusercontent.com/31371849/54569609-4876ca00-49ba-11e9-9e0d-ad98038f9573.png)
+**Imagem**: Tela de recuperar senha.
+![9 1-Screen 10](https://user-images.githubusercontent.com/31371849/54569615-50366e80-49ba-11e9-9a61-f429a21347a5.png)
+**Imagem**: Tela de minha conta (aluno).
+![10 1-Screen 11](https://user-images.githubusercontent.com/31371849/54569628-56c4e600-49ba-11e9-9acc-c19cae1be8fc.png)
+**Imagem**: Tela de minha conta (coordenador e orientador).
+![11 1-Screen  12](https://user-images.githubusercontent.com/43856911/54569798-fa15fb00-49ba-11e9-954c-0f10ddd3934d.png)
+
 
 ## 5. Diagramas de Classe de Análise
 ![diagrama_classe_analise](https://user-images.githubusercontent.com/31371849/54547184-0337a580-4984-11e9-9948-aaa9aba6fb78.png)
