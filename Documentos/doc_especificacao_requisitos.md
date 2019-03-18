@@ -67,7 +67,7 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 **Atores**: Usuário. </br>
 **Visão geral**: Usuário cadastrado efetua login de acesso ao sistema. </br>
 **Pré-requisitos**: Usuário estar cadastrado.  </br>
-**Pós-requisitos**:  Usuário logado no sistema </br>
+**Pós-requisitos**:  Usuário logado no sistema. </br>
 
 **Fluxo de eventos**:
 
@@ -97,10 +97,11 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 |  | 2 - Solicita o cadastro do usuário. |
 
 #### Caso de Uso: _Avaliar ponto de controle._
-**Atores**:  Orientador.
-**Visão geral**:  Orientador visualiza e avalia o ponto de controle de seu orientando.
-**Pré-requisitos**:  Orientador precisa estar logado no sistema.
-**Pós-requisitos**:  Informações são salvas no sistema e ficam disponíveis para orientador, coordenador e aluno correspondente.
+**Atores**:  Orientador. </br>
+**Visão geral**:  Orientador visualiza e avalia o ponto de controle de seu orientando. </br>
+**Pré-requisitos**:  Orientador precisa estar logado no sistema. </br>
+**Pós-requisitos**:  Informações são salvas no sistema e ficam disponíveis para orientador, coordenador e aluno correspondente. </br>
+
 **Fluxo de eventos**:
 
 | Ações do Ator | Respostas do Sistema |
@@ -115,10 +116,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 |  | 6.2 - Caso as informações estejam inválidas (nota maior que o máximo / campos vazios), uma mensagem é exibida ao usuário pedindo para verificar as informações. |
 
 #### Caso de Uso: _Atribuir nota de coordenador._
-**Atores**: Coordenador.
-**Visão geral**: Coordenador visualiza um ponto de controle avaliado por um orientador. Após isso atribui sua nota ao ponto de controle do aluno. 
-**Pré-requisitos**:  Coordenador estar cadastrado, parecer do ponto de controle submetido. 
-**Pós-requisitos**: Nota de coordenador no ponto de controle alterada.
+**Atores**: Coordenador. </br>
+**Visão geral**: Coordenador visualiza um ponto de controle avaliado por um orientador. Após isso atribui sua nota ao ponto de controle do aluno.  </br>
+**Pré-requisitos**:  Coordenador estar cadastrado, parecer do ponto de controle submetido.  </br>
+**Pós-requisitos**: Nota de coordenador no ponto de controle alterada. </br>
 
 **Fluxo de eventos**:
 
@@ -130,10 +131,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | | 4 - Atualiza a nota de coordenador ao ponto de controle. |
 
 #### Caso de Uso: _Cadastrar-se_
-**Atores**: Usuário.
-**Visão geral**: Cadastra um novo usuário ao sistema.
-**Pré-requisitos**: -
-**Pós-requisitos**: Usuário cadastrado.
+**Atores**: Usuário. </br>
+**Visão geral**: Cadastra um novo usuário ao sistema. </br>
+**Pré-requisitos**: - </br>
+**Pós-requisitos**: Usuário cadastrado. </br>
 
 **Fluxo de eventos**:
 
@@ -149,10 +150,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | | 8. Salva informações do usuário. | 
 
 #### Caso de Uso: _Recuperar senha._
-**Atores**: Usuário.
-**Visão geral**: Usuário recebe e-mail com sua senha.
-**Pré-requisitos**: Usuário deve estar cadastrado no sistema.
-**Pós-requisitos**: E-mail com senha enviada para o usuário.
+**Atores**: Usuário. </br>
+**Visão geral**: Usuário recebe e-mail com sua senha. </br>
+**Pré-requisitos**: Usuário deve estar cadastrado no sistema. </br>
+**Pós-requisitos**: E-mail com senha enviada para o usuário. </br>
 
 **Fluxo de eventos**:
 
@@ -166,10 +167,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 |   | 4.2 - Caso e-mail não esteja cadastrado, sistema mostra uma mensagem para o usuário e sugere tentar novamente.|
 
 #### Caso de Uso: _Visualizar/Alterar dados cadastrais._
-**Atores**: Usuário.
-**Visão geral**: Usuário edita e altera seus dados cadastrais.
-**Pré-requisitos**:  Usuário deve cadastrado no sistema.
-**Pós-requisitos**:  Informações cadastrais são atualizadas no sistema.
+**Atores**: Usuário. </br>
+**Visão geral**: Usuário edita e altera seus dados cadastrais. </br>
+**Pré-requisitos**:  Usuário deve cadastrado no sistema. </br>
+**Pós-requisitos**:  Informações cadastrais são atualizadas no sistema. </br>
 
 **Fluxo de eventos**:
 
@@ -193,10 +194,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 |  | 7 - Sistema sai da página de atualização de dados sem salvar nenhuma alteração. |
 
 #### Caso de Uso: _Solicitar Orientador._
-**Atores**: Aluno.
-**Visão geral**: Aluno seleciona seu orientador. 
-**Pré-requisitos**: Aluno cadastrado e efetivado.
-**Pós-requisitos**: Aluno com orientador. 
+**Atores**: Aluno. </br>
+**Visão geral**: Aluno seleciona seu orientador.  </br>
+**Pré-requisitos**: Aluno cadastrado e efetivado. </br>
+**Pós-requisitos**: Aluno com orientador.  </br>
 
 **Fluxo de eventos**:
 
@@ -208,10 +209,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | | 4 - Envia solicitação de orientador, ao orientador. |
 
 #### Caso de Uso: _Aceitar solicitação de orientando._
-**Atores**: Orientador.
-**Visão geral**: Orientador aceita solicitações de orientandos. 
-**Pré-requisitos**: Orientador registrado, orientandos solicitando o orientador. 
-**Pós-requisitos**: Orientando aceito ou negado.
+**Atores**: Orientador. </br>
+**Visão geral**: Orientador aceita solicitações de orientandos.  </br>
+**Pré-requisitos**: Orientador registrado, orientandos solicitando o orientador.  </br>
+**Pós-requisitos**: Orientando aceito ou negado. </br>
 
 **Fluxo de eventos**:
 
@@ -234,10 +235,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | | 5 - Sistema atualiza solicitação como negada. | 
 
 #### Caso de Uso: _Aceitar solicitação de orientador._
-**Atores**: Coordenador
-**Visão geral**: Coordenador aceita solicitações de orientadores. 
-**Pré-requisitos**: Coordenador registrado, orientador solicitando o coordenador. 
-**Pós-requisitos**: Orientador aceito ou negado.
+**Atores**: Coordenador. </br>
+**Visão geral**: Coordenador aceita solicitações de orientadores.  </br>
+**Pré-requisitos**: Coordenador registrado, orientador solicitando o coordenador. </br> 
+**Pós-requisitos**: Orientador aceito ou negado. </br>
 
 **Fluxo de eventos**:
 
@@ -260,10 +261,10 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | | 5 - Sistema atualiza solicitação como negada. | 
 
 #### Caso de Uso: _Aceitar solicitação de coordenador._
-**Atores**: Admin.
-**Visão geral**: Admin aceita solicitações de coordenadores. 
-**Pré-requisitos**: Orientador solicitando o seu registro. 
-**Pós-requisitos**: Orientador aceito ou negado.
+**Atores**: Admin. </br>
+**Visão geral**: Admin aceita solicitações de coordenadores.  </br>
+**Pré-requisitos**: Orientador solicitando o seu registro.  </br>
+**Pós-requisitos**: Orientador aceito ou negado. </br>
 
 **Fluxo de eventos**:
 
