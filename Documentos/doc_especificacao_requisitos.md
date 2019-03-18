@@ -14,30 +14,42 @@ As siglas e abreviações utilizadas neste documento referem-se :
 Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/Referencias/1505831_Ponto%20de%20Controle%20CC%20201901.pdf) e [Regulamento para o trabalho de conclusão de curso](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/Referencias/1507899_Regulamento%20CC%20TCCI%202019%2001.pdf) adquiridos com a autorização de professores. 
 
 ## 2. Requisitos
-  ### 2.1. Requisitos Funcionais
-  * O sistema deve manter o cadastro de Aluno, Orientador, Coordenador e Administrador.
-  * O sistema deve permitir o login por meio de número de matrícula e senha.
-  * O sistema deve permitir o login de Alunos, Orientadores, Coordenadores e Administradores.
-  * O sistema deve manter o registro de e-mail, senha e matrícula do Aluno, Orientador e Coordenador. 
-  * O sistema deve manter o cadastro de turma ( TCC1 & TCC2 ).
-  * O sistema deve permitir a submissão de pontos de controle pelo Aluno, os pontos de controle são uma descrição textual sobre o que foi feito de trabalho até este ponto de controle e do que será feito até o próximo ponto de controle.
-  * O sistema deve permitir um parecer feito do Orientador para o Coordenador sobre a submissão de novos pontos de controle.
-  * O sistema deve permitir a alteração de nota dos pontos de controle pelo Orientador e pelo Coordenador. 
-  ### 2.2. Requisistos Não Funcionais
-  * O sistema será em plataforma web.
-  * O sistema usará JSP.
-  * O sistema usará JSF.
-  * O sistema usará MySQL.
+ ### 2.1. Requisitos Funcionais
+ - O sistema deve manter cadastro de Aluno. 
+ - O sistema deve manter cadastro de Orientador.
+ - O sistema deve manter cadastro de Coordenador.
+ - O sistema deve manter cadastro de Administrador.
+ - O sistema deve permitir a submissão de pontos de controle pelo Aluno, os pontos de controle são uma descrição textual sobre o que foi feito de trabalho até este ponto de controle e do que será feito até o próximo ponto de controle.
+ - O sistema deve permitir a alteração de nota dos pontos de controle (Orientador e Coordenador).
+ - O sistema deve permitir um parecer feito do orientador para o coordenador na submissão dos pontos de controle.
+ - O sistema deve permitir que o Orientador encaminhe o ponto de controle pro Coordenador. 
+ - O sistema deve permitir login por meio de matrícula e senha.
+ - O sistema deve permitir o login de alunos, professores e coordenadores.
+ - O sistema deve manter o registro de e-mail, senha e matricula do aluno, orientador e coordenador.
+ - O sistema deve obter o e-mail do usuário através de seu número de matrícula.
+ - O sistema deve exigir confirmação do e-mail após o registro do usuário para liberar o acesso.
+ - O sistema deve permitir que durante o registro, o usuário informe seu tipo (aluno, coordenador, orientador). Quando informado   orientador, o coordenador receberá a solicitação para confirmá-lo. Quando informado coordenador, o administrador receberá solicitação  para confirmá-lo.
+ - O sistema deve permitir com que o aluno selecione ou altere seu orientador. Após a seleção é gerada uma solicitação que o orientador selecionado deverá aceitar.
+ - O sistema deve permitir que os usuários alterem seus dados.
+ - O sistema deve permitir que os usuários recuperem senha perdida.
+ - O sistema deve possuir um usuário administrador padrão.
+ ### 2.2. Requisistos Não Funcionais
+  - O sistema será em plataforma web.
+  - O sistema usará JSP.
+  - O sistema usará JSF.
+  - O sistema usará MySQL. 
   
 ## 3. Casos de Uso
-### 3.1. Diagrama
-[diarama_caso_de_uso]: https://user-images.githubusercontent.com/31371849/54492545-576c5800-48a6-11e9-9ac7-a17e54f65c1b.png
-![alt text](https://user-images.githubusercontent.com/31371849/54492545-576c5800-48a6-11e9-9ac7-a17e54f65c1b.png)
+ ### 3.1. Diagrama
+ ![alt text](https://drive.google.com/open?id=1M4eCieQlfqpjXT1MtpwcHDh0d303YuNP)
 
-**imagem**: *Diagrama de Casos de Uso*
+ **imagem**: *Diagrama de Casos de Uso*.
 
-### 3.2. Descrição de Caso de Uso
+ ### 3.2. Descrição de Caso de Uso
 
 ## 4. Prototipagem
 
 ## 5. Diagramas de Classe de Análise
+ ![alt text](https://drive.google.com/open?id=1UNhk2qChXrPykuuKf2oSZFaF2sEQyJ4o)
+
+**imagem**: *Diagrama de Classe de Análise*.
