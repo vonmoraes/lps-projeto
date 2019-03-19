@@ -61,7 +61,7 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | 1 - Aluno seleciona data de fechamento do ponto de controle.  | |
 | 2 - Aluno escreve a descrição do ponto de controle. | |
 | 3 - Aluno clica em submeter, e o ponto de controle é enviado ao sistema | |
-| | 4 - Ponto de controle é recebido pelo sistema e liberado para o orientador e coordenador. |
+| | 4 - Ponto de controle é recebido pelo sistema e liberado para o orientador. |
 
 #### Caso de Uso: _Efetuar login._
 **Atores**: Usuário. </br>
