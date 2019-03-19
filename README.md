@@ -13,7 +13,7 @@
 
 | Entrega | Documento                   | Data       |
 |:-------:|:---------------------------:|:----------:|
-| &#9745; | [Template dos Documentos](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/template_documentos.pdf)     | 26/02/2019 |
+| &#9745; | [Template dos Documentos](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/PDF/Template_documentos.pdf)     | 26/02/2019 |
 | &#9744; | [Especificação de Requisitos](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/doc_especificacao_requisitos.md) | 18/03/2019 |
 | &#9744; | [Documento de Arquitetura](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/doc_arquitetura.md)    | 09/04/2019 |
 | &#9744; | [Plano de Testes](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/doc_plano_de_testes.md)             | 21/05/2019 |
