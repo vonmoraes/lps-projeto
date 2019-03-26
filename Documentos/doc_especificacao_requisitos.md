@@ -286,14 +286,16 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | 4 - Seleciona opção negar solicitação. | |
 | | 5 - Sistema atualiza solicitação como negada. | 
 
+[========]
+
 ## 4. Prototipagem
-**Imagem**: Tela de login.
+**Imagem**: *Tela de login.*
 ![1 1-Screen 1](https://user-images.githubusercontent.com/31371849/54569530-fc2b8a00-49b9-11e9-83fa-2b88ff9c3556.png)
-**Imagem**: Tela inicial de aluno.
+**Imagem**: *Tela inicial de aluno.*
 ![2 1-Screen 2](https://user-images.githubusercontent.com/31371849/54569542-05b4f200-49ba-11e9-9798-d63c5446e3ed.png)
-**Imagem**: Tela de submeter ponto de controle (aluno).
+**Imagem**: *Tela de submeter ponto de controle (aluno).*
 ![3 1-Screen 3](https://user-images.githubusercontent.com/31371849/54569556-0f3e5a00-49ba-11e9-809b-89a90a7d1255.png)
-**Imagem**: Tela de avaliar ponto de controle (orientador).
+**Imagem**: Tela de avaliar ponto de controle (orientador).*
 ![4 1-Screen 4](https://user-images.githubusercontent.com/31371849/54569567-15ccd180-49ba-11e9-8427-77ecf22057d1.png)
 **Imagem**: Tela de atribuir nota de coordenador.
 ![5 1-Screen 5](https://user-images.githubusercontent.com/31371849/54569575-1f563980-49ba-11e9-8ba1-e9d302ea80b4.png)
