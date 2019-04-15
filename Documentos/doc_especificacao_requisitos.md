@@ -286,8 +286,6 @@ Foi utilizado documentos de referência, [Ponto de Controle](https://github.com/
 | 4 - Seleciona opção negar solicitação. | |
 | | 5 - Sistema atualiza solicitação como negada. | 
 
-[========]
-
 ## 4. Prototipagem
 **Imagem**: *Tela de login.*
 ![1 1-Screen 1](https://user-images.githubusercontent.com/31371849/54569530-fc2b8a00-49b9-11e9-83fa-2b88ff9c3556.png)
