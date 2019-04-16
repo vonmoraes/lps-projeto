@@ -1,5 +1,6 @@
 
 # Documento de Arquitetura de Software
+Autores: Álefe Lucas, Breno Aroeira Cosenza, Henrique Schiess Pertussati, Luana Duarte Santana Farias e Lucas de Souza Moraes.
 ## 1. Introdução
 
 Este documento fornece uma visão geral arquitetura abrangente do sistema, usando vários meios de arquitetura de software diferentes para representar diversos aspectos do sistema. Destina-se a capturar e transmitir as decisões arquiteturais significativas que foram tomadas no sistema. 
