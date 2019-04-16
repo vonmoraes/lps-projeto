@@ -35,4 +35,4 @@ Tabela: Data perído dos Sprints
 
 ---
 Acompanhe o [andamento do projeto](https://github.com/vonmoraes/lps-projeto/projects/1).
-> Editores de markdown:  [typora](https://typora.io/), [stackedit](https://stackedit.io/), [dillinger](https://dillinger.io/) e [pandao](https://pandao.github.io/editor.md/en.html).
+> [typora](https://typora.io/).
