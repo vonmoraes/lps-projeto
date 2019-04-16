@@ -15,7 +15,7 @@
 |:-------:|:---------------------------:|:----------:|
 | &#9745; | [Template dos Documentos](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/PDF/Template_documentos.pdf)     | 26/02/2019 |
 | &#9745; | [Doc. Especificação de Requisitos](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/doc_especificacao_requisitos.md) | 18/03/2019 |
-| &#9744; | [Doc. de Arquitetura](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/doc_arquitetura.md)    | 09/04/2019 |
+| &#9745; | [Doc. de Arquitetura](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/doc_arquitetura.md)    | 15/04/2019 |
 | &#9744; | [Doc. Plano de Testes](https://github.com/vonmoraes/lps-projeto/blob/master/Documentos/doc_plano_de_testes.md)             | 21/05/2019 |
 | &#9744; | Análise de Usabilidade      | 04/06/2019 |
 | &#9744; | Código Fonte                | 11/06/2019 |
