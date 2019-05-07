@@ -1,0 +1,21 @@
+{
+  "name": "azul",
+  "version": "1.0.0",
+  "description": "aplicacao azul",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "pg": "^7.10.0",
+    "sequelize" : "^5.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"start\": \"index.js\""
+  },
+  "keywords": [
+    "azul"
+  ],
+  "author": "grupo",
+  "license": "MIT"
+}

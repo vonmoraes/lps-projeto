@@ -1,0 +1,33 @@
+
+<!-- importar header -->
+<%- include('../header') %>
+
+<!-- body -->
+<div class='container'>
+    <h3> Solicitacoes </h3>
+    <div>
+        <table class="striped">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th><!----></th>
+                    <th><!----></th>                    
+                </tr>
+            </thead>
+            <tbody>
+                <% usuarios.forEach( usuario => { %>
+                <tr>
+                    <td> <%- usuario %> </td>
+                    <td style="text-align:right">
+                        <a class="waves-effect waves-light btn"> Aceitar </a>
+                        <a class="waves-effect waves-light btn"> Recusar </a>
+                    </td>
+                </tr>
+                <% }) %>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- importar footer -->
+<%- include('../footer') %>
