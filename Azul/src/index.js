@@ -31,19 +31,19 @@ router(app, db);
 /**
  * VARIAVEIS DE TESTE @@@@@@@@@@@
  */
-usuarios = [
+const usuarios = [
     "Luana Duarte", "Lucas Moraes",
     "Breno Aroeira", "Henrique Schiess",
     "Carlos Saldanha"
 ];
 
-usuario = {
+const usuario = {
     nome: 'Luana Duarte',
     matricula: '538464',
     email: 'ludsf@email.com'
 };
 
-ponto_controle = {
+const ponto_controle = {
     descricao_atividade : 'teste_descricao_atividade',
     parecer_orientador : "teste_parecer_orientador",
     data_submissao : '21/04/19',
@@ -56,7 +56,7 @@ ponto_controle = {
     pasta_ponto_controle_id : 'pc'
 };
 
-pastapc = {
+const pastapc = {
     primeiro: {
         titulo: "teste_titulo",
         descricao: "teste_descricao",
@@ -95,7 +95,7 @@ pastapc = {
  * pag inicial
  */
 app.get('/',(request, response) => {
-    response.render('/conta/login');
+    response.render('conta/login');
 });
 
 //Se houver conexao com o banco 'listening' na porta de env
