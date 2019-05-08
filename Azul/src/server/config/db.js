@@ -1,10 +1,8 @@
 'use strict'
 
-/** NOTA:  
- * is the more interesting of the two files. Here we initialize Sequelize, 
- * and pull in the models. Sequelize (capitalized), the sequelize 
- * instance (not capitalized), and the models are attached to a db object. 
- * This db object is exported for app-wide use.
+/**
+ * Inicialização do Sequelize e da instância sequelize. 
+ * Anexa os objetos modelo ao banco db
  */
 
 

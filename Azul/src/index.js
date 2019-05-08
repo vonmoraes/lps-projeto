@@ -1,10 +1,7 @@
 'use strict';
 
 /**
- * TUTORIAL: https://lorenstewart.me/2016/10/03/sequelize-crud-101/
- * https://stackoverflow.com/questions/46887610/node-js-sequelize-orm-simple-crudcreate-read-update-and-delete-example
- * https://www.robinwieruch.de/postgres-express-setup-tutorial/
- * http://docs.sequelizejs.com/manual/getting-started
+ * 
  */
 
 const   express         = require('express');
@@ -12,7 +9,7 @@ const   bodyParser      = require('body-parser');
 const   db              = require('./server/config/db.js');
 const   env             = require('./server/config/env');
 const   router          = require('./server/router/index');
-// Adicionado posteriormente 
+//
 const   path            = require('path');
 
 

@@ -2,9 +2,7 @@
 
 
 /**
- * has all of our environment variables for the database connection. This file only has information for a 
- * dev environment. In a real app, your production variables would go here, too. This information is bundled 
- * in a single objects, which is then exported for app-wide use.
+ * Informações do ambiente de desenvolvimento. 
  */
 
 
