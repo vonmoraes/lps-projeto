@@ -36,6 +36,7 @@
                                 <label for="user_name" class="center">
                                     Email
                                 </label>
+                                <span class="helper-text" data-error="Por favor digite um endereço de email válido." data-success=""></span>
                             </div>
                             <!---->
                             <div class="input-field col s12">
@@ -43,6 +44,14 @@
                                 <label for="user_name" class="center">
                                     Senha
                                 </label>
+                                <span class="helper-text" data-error="A senha deve conter mais de 6 caracteres" data-success=""></span>
+                            </div>
+
+                            <!---->
+                            <div class="input-field col s12">
+                                <% if(mensagem) { %>
+                                    <div class="red-text"><%- mensagem %></div>
+                                <% } %>
                             </div>
     
                             <!---->

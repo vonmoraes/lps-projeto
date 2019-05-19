@@ -92,9 +92,22 @@ const pastapc = {
  * pag inicial
  */
 app.get('/',(request, response) => {
-    response.render('conta/login');
+    response.render('admin/home_admin', {
+        mensagem : null,
+        usuario,
+    });
 });
-
+app.get('/login', (request, response) => {
+    response.render('conta/login', {
+        mensagem : 'E-mail ou senha inválidos!'
+    });
+})
+app.get('/registro',(request, response) => {
+    response.render('conta/registro');
+});
+app.get('/recuperar_senha',(request, response) => {
+    response.render('conta/recuperar_senha');
+});
 //Se houver conexao com o banco 'listening' na porta de env
 db.sequelize.sync().then(() => {
     app.listen(PORT, (err) => {
