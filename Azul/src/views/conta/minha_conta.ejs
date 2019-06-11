@@ -1,0 +1,36 @@
+<!-- importar header -->
+<%- include('../header') %>
+
+<!-- body -->
+<div class="section">
+
+</div> 
+<div class ='row'> 
+    <div class='col s5' align="left">
+        
+        <h4> Nome: <%- usuario.nome %> </h4>
+        <h4> Orientador: </h4>
+
+        <a class='waves-effect waves-light btn right'> Solicitar Orientador </a>
+    </div>
+
+    <div class='col s1' align="middle">
+        <style>
+            .vertical {
+                border-left: 1px solid #16222c;
+                height: 500px;
+            }
+        </style>
+                    
+        <div class="vertical"></div>
+    </div>
+
+    <div class='col s5' align="left"> 
+        <h4> Matricula: <%- usuario.matricula %> </h4>
+        <h4> Email:  <%- usuario.email %></h4>
+    </div>
+</div>
+
+
+<!-- importar footer -->
+<%- include('../footer') %>

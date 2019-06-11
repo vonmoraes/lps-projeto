@@ -32,6 +32,13 @@ db.Sequelize = Sequelize;
 db.sequelize = sequelize;
 
 // Criar Tabelas e adicionalas ao db object
+db.admin = require('../models/admin.js')(sequelize, Sequelize);
+db.aluno = require('../models/aluno.js')(sequelize, Sequelize);
+db.coordenador = require('../models/coordenador.js')(sequelize, Sequelize);
+db.orientador = require('../models/orientador.js')(sequelize, Sequelize);
+// db.pasta = require('../models/pasta.js')(sequelize, Sequelize);
+// db.ponto_controle = require('../models/ponto_controle.js')(sequelize, Sequelize);
+// db.solicitacao = require('../models/solicitacao.js')(sequelize, Sequelize);
 db.usuario = require('../models/usuario.js')(sequelize, Sequelize);
 
 // Relações entre as tabelas

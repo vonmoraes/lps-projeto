@@ -6,7 +6,7 @@
 module.exports = (app, db) => {
 
     // CREATE (Cria um único usuário)
-    app.post('/usuario', (request, response) => {
+    app.post('/new_usuario', (request, response) => {
         const nome = request.body.nome;
         const email = request.body.email;
         const senha = request.body.senha;

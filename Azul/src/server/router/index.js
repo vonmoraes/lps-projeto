@@ -6,7 +6,15 @@
  */
 const routes = [
     // Adicionar as rotas do banco de dados.
+    require('./routes/admin'),
+    require('./routes/aluno'),
+    require('./routes/coordenador'),
+    require('./routes/orientador'),
+    // require('./routes/pasta'),
+    // require('./routes/ponto_controle'),
+    // require('./routes/solicitacao'),
     require('./routes/usuario')
+
 ];
 
 

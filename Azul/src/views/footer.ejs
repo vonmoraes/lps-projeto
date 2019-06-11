@@ -1,7 +1,7 @@
 </div> <!--fim da div #page-container-->
-<div id="footer">
+<div id="footer black">
     <div style="padding-left:30px;">
-    © 2019 Copyright Text
+        
     </div>
 </div>
 </div> <!--fim da div #page-wrap-->
@@ -22,8 +22,18 @@ $(document).ready(function(){
     $('.tabs').tabs();
 });
 
+$(document).ready(function() {
+    $(".clickable-row").click(function() {
+        window.location = $(this).data("href");
+    });
+});
+
 $(document).ready(function(){
    $('.collapsible').collapsible();
+});
+
+$(document).ready(function() {
+    $('input#input_text, textarea#descricao').characterCounter();
 });
 
 </script>

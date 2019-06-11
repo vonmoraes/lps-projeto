@@ -1,0 +1,36 @@
+<!-- importar header -->
+<%- include('../header') %>
+
+<!-- body -->
+<div class='container'>
+    <h4> <b> <%- pastapc.quarto.titulo %> </b></h4>
+    <div> 
+        <b> Data de fechamento: <%- pastapc.quarto.data_fechamento %> </b><br>
+        <b> Pontos Coordenador: <%- ponto_controle.nota_coordenador %></b><br>
+        <b> Pontos Orientador: <%- ponto_controle.nota_orientador %></b>
+    </div>
+    <div>
+        <h6> <b> Descrição: </b> </h6>
+       
+        <div class="section">
+        <%- pastapc.quarto.descricao %>
+        </div>
+        <form>
+            <div class="input-field section">
+                <textarea id="descricao" class="materialize-textarea" data-length="" rows="10" cols="50"></textarea>
+                <label for="descricao" class="center">
+                    Descrição das atividades:
+                </label>
+            </div>
+            <div class="input-field col s6 offset-s6" align="right">
+                    <a href="/" class="btn waves-effect waves-light col s12 btn">
+                        Submeter
+                    </a>
+                </div>
+        </form>
+      
+    </div>
+</div>
+
+<!-- importar footer -->
+<%- include('../footer') %>
